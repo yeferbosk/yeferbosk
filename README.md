@@ -1,15 +1,15 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e1a,50:0a1a3a,100:0a0e1a&height=220&section=header&text=Yeferson%20Acosta&fontSize=52&fontColor=3b82f6&fontAlignY=38&desc=Backend%20Developer%20%7C%20Freelancer&descAlignY=60&descSize=18&descColor=60a5fa&animation=fadeIn"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:e0ecff,50:bfdbfe,100:e0ecff&height=220&section=header&text=Yeferson%20Acosta&fontSize=52&fontColor=1d4ed8&fontAlignY=38&desc=Backend%20Developer%20%7C%20Freelancer&descAlignY=60&descSize=18&descColor=2563eb&animation=fadeIn"/>
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e1a,50:0a1a3a,100:0a0e1a&height=220&section=header&text=Yeferson%20Acosta&fontSize=52&fontColor=3b82f6&fontAlignY=38&desc=Backend%20Developer%20%7C%20Freelancer&descAlignY=60&descSize=18&descColor=60a5fa&animation=fadeIn"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e1a,50:0a1a3a,100:0a0e1a&height=220&section=header&text=Yeferson%20Acosta&fontSize=52&fontColor=3b82f6&fontAlignY=38&desc=Systems%20Engineering%20%7C%20Software%20Developer&descAlignY=60&descSize=18&descColor=60a5fa&animation=fadeIn"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:e0ecff,50:bfdbfe,100:e0ecff&height=220&section=header&text=Yeferson%20Acosta&fontSize=52&fontColor=1d4ed8&fontAlignY=38&desc=Systems%20Engineering%20%7C%20Software%20Developer&descAlignY=60&descSize=18&descColor=2563eb&animation=fadeIn"/>
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e1a,50:0a1a3a,100:0a0e1a&height=220&section=header&text=Yeferson%20Acosta&fontSize=52&fontColor=3b82f6&fontAlignY=38&desc=Systems%20Engineering%20%7C%20Software%20Developer&descAlignY=60&descSize=18&descColor=60a5fa&animation=fadeIn"/>
   </picture>
 
   <p>
-    <img src="https://img.shields.io/badge/Backend-Developer-2563eb?style=flat-square&labelColor=1e3a8a"/>
-    <img src="https://img.shields.io/badge/Freelancer-Disponible-3b82f6?style=flat-square&labelColor=1e3a8a"/>
-    <img src="https://img.shields.io/badge/Experiencia-3%2B%20años-60a5fa?style=flat-square&labelColor=1e3a8a"/>
+    <img src="https://img.shields.io/badge/Ingeniería%20de%20Sistemas-Estudiante-2563eb?style=flat-square&labelColor=1e3a8a"/>
+    <img src="https://img.shields.io/badge/Software%20Development-Backend%20%26%20Full%20Stack-3b82f6?style=flat-square&labelColor=1e3a8a"/>
+    <img src="https://img.shields.io/badge/AI-Projects-60a5fa?style=flat-square&labelColor=1e3a8a"/>
   </p>
 </div>
 
@@ -17,79 +17,107 @@
 
 # 👨🏻‍💻 Sobre mí
 
-```go
-package main
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Yeferson Acosta"
+        self.career = "Systems Engineering"
+        self.university = "Universidad El Bosque"
+        self.interests = [
+            "Software Engineering",
+            "Backend Development",
+            "Artificial Intelligence",
+            "Software Architecture",
+            "Database Design",
+            "Automation"
+        ]
+        self.technologies = [
+            "Python", "Java", "Go",
+            "Angular", "FastAPI",
+            "Spring Boot", "MySQL"
+        ]
 
-import "fmt"
+    def say_hello(self):
+        print("Building software through engineering and innovation.")
 
-type Developer struct {
-    Name       string
-    Role       string
-    Experience string
-    Skills     []string
-    Status     string
-}
-
-func main() {
-    me := Developer{
-        Name:       "Yeferson Acosta",
-        Role:       "Backend Developer",
-        Experience: "3+ años",
-        Skills: []string{
-            "Spring Boot",
-            "Go",
-            "Python",
-            "Angular",
-            "Docker",
-            "SQL",
-        },
-        Status: "Disponible para nuevos proyectos 🚀",
-    }
-
-    fmt.Println("Hola, soy", me.Name)
-}
+me = Developer()
+me.say_hello()
 ```
 
-Soy desarrollador backend apasionado por construir aplicaciones escalables, APIs robustas y arquitecturas limpias.
+Soy estudiante de **Ingeniería de Sistemas en la Universidad El Bosque**, apasionado por el desarrollo de software, la arquitectura de aplicaciones y la implementación de soluciones tecnológicas.
 
-Me gusta desarrollar software de calidad, optimizar procesos y construir soluciones escalables utilizando buenas prácticas de ingeniería de software.
+Este perfil reúne mis proyectos académicos, desarrollos universitarios, experimentos tecnológicos y aplicaciones construidas durante mi formación como ingeniero de sistemas.
 
-Actualmente trabajo en:
+Me interesa especialmente el desarrollo de soluciones escalables, la integración de inteligencia artificial y la construcción de sistemas que permitan automatizar y optimizar procesos.
 
-- 🚀 APIs REST
-- 🏗 Arquitectura Backend
-- ⚡ Microservicios
-- 🗄 Bases de Datos
-- 🤖 Automatización
-- 💻 Desarrollo Full Stack
+### 🎯 Áreas de interés
+
+- 🚀 Desarrollo de APIs REST y servicios backend.
+- 🏗 Arquitectura de software y diseño de sistemas.
+- 🤖 Inteligencia artificial, Machine Learning y NLP.
+- 🗄 Diseño, administración y optimización de bases de datos.
+- ⚡ Automatización e integración de servicios.
+- 💻 Desarrollo de aplicaciones Full Stack.
+- 🔌 Integración de sistemas y servicios externos.
 
 ---
 
 # 🚀 Stack Tecnológico
 
-## 💻 Lenguajes
+## 💻 Lenguajes de programación
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,java,python,ts,js"/>
+  <img src="https://skillicons.dev/icons?i=python,java,go,js,ts"/>
 </p>
 
-## ⚙ Frameworks
+## ⚙ Frameworks y tecnologías
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,fastapi,flask,angular"/>
+  <img src="https://skillicons.dev/icons?i=fastapi,spring,flask,angular"/>
 </p>
 
-## 🗄 Bases de Datos
+## 🗄 Bases de datos
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb"/>
 </p>
 
-## 🛠 Herramientas
+## 🛠 Herramientas y entornos
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,linux"/>
 </p>
+
+## 🤖 Inteligencia artificial
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Hugging%20Face-Models%20%26%20NLP-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Ollama-LLM%20Integration-ffffff?style=for-the-badge&logo=ollama&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Transformers-Machine%20Learning-2563eb?style=for-the-badge"/>
+</p>
+
+---
+
+# 📚 Proyectos destacados
+
+<div align="center">
+
+  <a href="https://github.com/yeferchofas2005-dev">
+    <img src="https://img.shields.io/badge/GitHub-Explorar%20mis%20proyectos-1e3a8a?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+</div>
+
+En este perfil encontrarás proyectos relacionados con:
+
+| Área | Descripción |
+|---|---|
+| 🏗 Ingeniería de software | Diseño y desarrollo de sistemas de información. |
+| 🤖 Inteligencia artificial | Chatbots, NLP, modelos de lenguaje y RAG. |
+| ⚙ Backend | APIs REST, servicios y arquitecturas escalables. |
+| 💻 Desarrollo Full Stack | Aplicaciones web y plataformas administrativas. |
+| 🗄 Bases de datos | Modelado, consultas y gestión de información. |
+| 🔗 Integraciones | Automatización y comunicación entre servicios. |
 
 ---
 
@@ -105,7 +133,7 @@ Actualmente trabajo en:
 
 ---
 
-# 📊 Actividad
+# 📊 Actividad en GitHub
 
 <p align="center">
   <picture>
@@ -146,5 +174,5 @@ Actualmente trabajo en:
 
   ### ⭐ Gracias por visitar mi perfil
 
-  <sub>Hecho con 💙 por Yeferson Acosta</sub>
+  <sub>Construyendo, aprendiendo e innovando a través del código 💙</sub>
 </div>
